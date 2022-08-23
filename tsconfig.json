@@ -1,0 +1,9 @@
+{
+  "compilerOptions" : {
+                      "outDir" : "./dist/out-tsc",
+                      "target" : "es2015",
+                      "declareation" : true,
+                      "emiDeclarationOnly" : true,
+                      "isolatedModules" : true                     
+  }
+}
